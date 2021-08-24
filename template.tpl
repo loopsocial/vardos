@@ -14,9 +14,10 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Firework Videos",
+  "categories": ["ATTRIBUTION", "ANALYTICS", "CONVERSIONS"],
   "brand": {
-    "id": "brand_dummy",
-    "displayName": ""
+    "id": "firework",
+    "displayName": "Firework"
   },
   "description": "Embed the Firework Widget in seconds!",
   "containerContexts": [

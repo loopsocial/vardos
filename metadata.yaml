@@ -1,6 +1,6 @@
 homepage: "https://firework.tv"
 documentation: "https://docs.firework.tv/"
 versions:
-  - sha: 00284b9e6c0df8a156bb8afd71b6e68040bc33fe
+  - sha: 1d525c7ba210c122d82f65c1ed63fd6b135007ab
     changeNotes: Initial release.
     

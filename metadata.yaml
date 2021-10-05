@@ -1,6 +1,10 @@
 homepage: "https://firework.tv"
 documentation: "https://docs.firework.tv/"
 versions:
+  # Latest version
   - sha: 7ee0ac8f511fc76d0fe21f8f7adcf4a96a825d9a
     changeNotes: Changed to use bundled fwn.js script.
+  # Older versions
+  - sha: 58d6ad2d512f84e4a5b554465e332533c482e3e8
+    changeNotes: Initial release.
     

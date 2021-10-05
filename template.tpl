@@ -40,7 +40,7 @@ log('data =', data);
 
 // Inject FW script
 injectScript(
-  'https://asset.fwcdn2.com/js/storyblock.js',
+  'https://asset.fwcdn2.com/js/fwn.js',
   function() {
     log('FW script injected');
     data.gtmOnSuccess();

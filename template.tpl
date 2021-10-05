@@ -14,10 +14,9 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Firework Videos",
-  "categories": ["ATTRIBUTION", "ANALYTICS", "CONVERSIONS"],
   "brand": {
-    "id": "firework",
-    "displayName": "Firework"
+    "id": "brand_dummy",
+    "displayName": ""
   },
   "description": "Embed the Firework Widget in seconds!",
   "containerContexts": [
@@ -40,7 +39,7 @@ log('data =', data);
 
 // Inject FW script
 injectScript(
-  'https://asset.fwcdn2.com/js/storyblock.js',
+  'https://asset.fwcdn2.com/js/fwn.js',
   function() {
     log('FW script injected');
     data.gtmOnSuccess();
@@ -112,6 +111,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 8/24/2021, 3:22:30 PM
+Created on 10/5/2021, 12:44:40 PM
 
 

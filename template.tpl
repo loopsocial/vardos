@@ -18,7 +18,7 @@ ___INFO___
     "id": "brand_dummy",
     "displayName": ""
   },
-  "description": "Embed the Firework Widget in seconds!",
+  "description": "Embed the Firework Widget in seconds!\n\nPurchase Tracking Documentation:\nhttps://docs.firework.tv/web/shopping-integrations/tracking",
   "containerContexts": [
     "WEB"
   ]
@@ -111,6 +111,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 10/5/2021, 12:44:40 PM
+Created on 10/5/2021, 8:20:10 PM
 
 
